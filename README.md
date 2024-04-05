@@ -1,6 +1,6 @@
 # Bem vindo(a)
 ---
-- 👋 oi, eu sou @Amandaswiftie13
+- 👋 oi, eu sou @Amandasanti04
 - 👀 Estou interessada em (desenvolver jogos)
 - 🌱 Estou aprendendo JavaScript, CSS e HTML
 - 💞️ Estou trabalhando nos projetos de Pensamento Computacional
